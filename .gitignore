@@ -1,0 +1,8 @@
+.vscode
+*/*/bin
+*/*/obj
+*/*.deb
+C/8ball
+TypeScript/8ball.js
+*/node_modules
+deps
